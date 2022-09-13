@@ -1,4 +1,4 @@
-# MOEA-AgeFriendlyCities
+# A Framework to Improve Accessibility and Urban Environmental Conditions in Age-friendly Cities using Graph Modeling and Multi-objective Optimization
 Repository containing datasets and simulations scripts for the multi-objective optimization of accessibility, air pollution and environmental noise reduction assets in age-friendly cities
 
 # Citing This work [(Link to the paper)](https://arxiv.org/search/eess?searchtype=author&query=Del+Ser%2C+J)
