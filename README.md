@@ -3,15 +3,20 @@ Repository containing datasets and simulations scripts for the multi-objective o
 
 <img src="./images/diagram.jpg" width="100%" />
 
+### Requirements and dependencies
+
+1. jMetalPy [https://github.com/jMetal/jMetalPy]
+2. OSMnx [https://github.com/gboeing/osmnx]
+3. NetworkX [https://github.com/networkx/networkx]
+4. Other libraries typically included in mainstream Python distributions (Numpy, Pickle, Matplotlib, etc)
+
 ### Contributing
 
 If you find a bug, create a GitHub issue, or even better, submit a pull request. Similarly, if you have questions, simply post them as GitHub issues.
 
 ### Citing this work:
 
-#### Conditional Generative Adversarial Networks
-
-*Iñigo Delgado-Enales, Javier Del Ser, Patricia Molina*
+*Iñigo Delgado-Enales, Javier Del Ser, Patricia Molina, "A Framework to Improve Accessibility and Urban Environmental Conditions in Age-friendly Cities using Graph Modeling and Multi-objective Optimization", under review, arXiv:XXXXX, 2022*
 
 **Abstract**
 
@@ -30,6 +35,6 @@ The rapid growth of cities in recent decades has unleashed several challenges fo
 
 ### Contact:
 
-Iñigo Delgado-Enales, inigodelgado22@gmail.com
-Javier Del Ser, javier.delser@tecnalia.com
-Patricia Molina, patricia.molina@tecnalia.com
+- Iñigo Delgado-Enales, inigodelgado22@gmail.com
+- Javier Del Ser, javier.delser@tecnalia.com
+- Patricia Molina, patricia.molina@tecnalia.com
