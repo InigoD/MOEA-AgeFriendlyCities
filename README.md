@@ -13,3 +13,9 @@ Repository containing datasets and simulations scripts for the multi-objective o
   journal={Under review, preprint available at arXiv},
   year={2022}
 }
+
+Contact:
+
+Iñigo Delgado-Enales, inigodelgado22@gmail.com
+Javier Del Ser, javier.delser@tecnalia.com
+Patricia Molina, patricia.molina@tecnalia.com
