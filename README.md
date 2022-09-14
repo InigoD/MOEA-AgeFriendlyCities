@@ -1,4 +1,4 @@
-# A Framework to Improve Accessibility and Urban Environmental Conditions in Age-friendly Cities using Graph Modeling and Multi-objective Optimization
+# A Framework to Improve Urban Accessibility and Environmental Conditions in Age-friendly Cities using Graph Modeling and Multi-objective Optimization
 Repository containing datasets and simulations scripts for the multi-objective optimization of accessibility, air pollution and environmental noise reduction assets in age-friendly cities.
 
 <img src="./images/diagram.jpg" width="100%" />
@@ -25,7 +25,7 @@ If you find a bug, create a GitHub issue, or even better, submit a pull request.
 
 ### Citing this work:
 
-*Iñigo Delgado-Enales, Javier Del Ser, Patricia Molina, "A Framework to Improve Accessibility and Urban Environmental Conditions in Age-friendly Cities using Graph Modeling and Multi-objective Optimization", under review, arXiv:XXXXX, 2022*
+*Iñigo Delgado-Enales, Javier Del Ser, Patricia Molina, "A Framework to Improve Urban Accessibility and Environmental Conditions in Age-friendly Cities using Graph Modeling and Multi-objective Optimization", under review, arXiv:XXXXX, 2022*
 
 **Abstract**
 
@@ -35,7 +35,7 @@ The rapid growth of cities in recent decades has unleashed several challenges fo
 
 ```
 @article{delgadoenales22journal,
-  title={{A Framework to Improve Accessibility and Urban Environmental Conditions in Age-friendly Cities using Graph Modeling and Multi-objective Optimization}},
+  title={{A Framework to Improve Urban Accessibility and Environmental Conditions in Age-friendly Cities using Graph Modeling and Multi-objective Optimization}},
   author={Delgado-Enales, I\~nigo and Del Ser, Javier and Molina, Patricia},
   journal={Under review, preprint available at arXiv},
   year={2022}
