@@ -5,6 +5,10 @@ Repository containing datasets and simulations scripts for the multi-objective o
 
 <img src="./images/diagram.jpg" width="100%" />
 
+### Contributing
+
+If you find a bug, create a GitHub issue, or even better, submit a pull request. Similarly, if you have questions, simply post them as GitHub issues.
+
 # Citing this work:
 
 #### Conditional Generative Adversarial Networks
