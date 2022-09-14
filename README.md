@@ -5,16 +5,24 @@ Repository containing datasets and simulations scripts for the multi-objective o
 
 <img src="./images/diagram.jpg" width="100%" />
 
-# Citing This work [(Link to the paper)](https://arxiv.org/search/eess?searchtype=author&query=Del+Ser%2C+J)
-> @article{
- delgadoenales22journal,
+# Citing this work:
+
+#### Conditional Generative Adversarial Networks
+
+*I\~nigo Delgado-Enales, Javier Del Ser, Patricia Molina*
+
+(https://arxiv.org/search/eess?searchtype=author&query=Del+Ser%2C+J)
+
+```
+@article{delgadoenales22journal,
   title={{A Framework to Improve Accessibility and Urban Environmental Conditions in Age-friendly Cities using Graph Modeling and Multi-objective Optimization}},
   author={Delgado-Enales, I\~nigo and Del Ser, Javier and Molina, Patricia},
   journal={Under review, preprint available at arXiv},
   year={2022}
 }
+```
 
-Contact:
+### Contact:
 
 Iñigo Delgado-Enales, inigodelgado22@gmail.com
 Javier Del Ser, javier.delser@tecnalia.com
