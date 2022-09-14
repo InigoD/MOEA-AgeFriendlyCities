@@ -9,7 +9,7 @@ Repository containing datasets and simulations scripts for the multi-objective o
 
 #### Conditional Generative Adversarial Networks
 
-*I\~nigo Delgado-Enales, Javier Del Ser, Patricia Molina*
+*Iñigo Delgado-Enales, Javier Del Ser, Patricia Molina*
 
 [[Link to the paper]](https://arxiv.org/search/eess?searchtype=author&query=Del+Ser%2C+J)
 
