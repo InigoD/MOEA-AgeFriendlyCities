@@ -10,6 +10,15 @@ Repository containing datasets and simulations scripts for the multi-objective o
 3. NetworkX [https://github.com/networkx/networkx]
 4. Other libraries typically included in mainstream Python distributions (Numpy, Pickle, Matplotlib, etc)
 
+### How to run:
+
+Two scripts are provided:
+
+1. mainScenarioClass.py: this script defines a class and methods required to compute the objective values of any given intervention over the area of interest.
+2. mainSimulationScript.py: this script exemplifies how the framework would be applied to the scenario A2, using NSGA2 to approach the set of Pareto-optimal interventions.
+
+Results are given in the folder named as such. Other scripts (production of plots, computation of quality statistics, etc) can be provided on demand.
+
 ### Contributing
 
 If you find a bug, create a GitHub issue, or even better, submit a pull request. Similarly, if you have questions, simply post them as GitHub issues.
