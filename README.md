@@ -34,11 +34,11 @@ The rapid growth of cities in recent decades has unleashed several challenges fo
 [[Link to the paper]](XXX)
 
 ```
-@article{delgadoenales22journal,
+@article{delgadoenales23journal,
   title={{A Framework to Improve Urban Accessibility and Environmental Conditions in Age-friendly Cities using Graph Modeling and Multi-objective Optimization}},
   author={Delgado-Enales, I\~nigo and Del Ser, Javier and Molina, Patricia},
-  journal={Under review},
-  year={2022}
+  journal={Computers, Environment and Urban Systems, accepted, in press},
+  year={2023}
 }
 ```
 
